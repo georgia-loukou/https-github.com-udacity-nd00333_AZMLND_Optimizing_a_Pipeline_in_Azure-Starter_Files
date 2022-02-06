@@ -1,5 +1,4 @@
-Optimizing an ML Pipeline in Azure
-Overview
+
 This project is part of the Udacity Azure ML Nanodegree and the aim is to build and optimize an Azure ML pipeline using the Python SDK, compared to an Azure AutoML run.
 
 Summary

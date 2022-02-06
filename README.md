@@ -4,8 +4,6 @@ This project is part of the Udacity Azure ML Nanodegree and the aim is to build 
 Summary
 This dataset contains data about peaple applying for bank loans. The task is to predict whether they will subscribe to a service.
 
-The best performing model was found to be a voting ensemble around 92% accuracy, having others with comparable accuracy.
-
 Scikit-learn Pipeline
 Steps taken:
 
